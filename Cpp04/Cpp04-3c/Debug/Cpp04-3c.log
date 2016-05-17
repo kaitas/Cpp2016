@@ -1,0 +1,6 @@
+﻿  Cpp04-3c.c
+c:\users\aki\documents\visual studio 2015\projects\cpp04\cpp04-3c\cpp04-3c.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' の宣言を確認してください
+c:\users\aki\documents\visual studio 2015\projects\cpp04\cpp04-3c\cpp04-3c.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' の宣言を確認してください
+  Cpp04-3c.vcxproj -> c:\users\aki\documents\visual studio 2015\Projects\Cpp04\Debug\Cpp04-3c.exe
